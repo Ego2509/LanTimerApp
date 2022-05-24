@@ -1,4 +1,6 @@
-# LanTimerApp: a way for timing and cycling through different devices for your table games in your local network 
+# LanTimerApp: A way for timing and cycling through different devices for your table games in your local network 
+
+[![ezgif-2-057a36eed0.gif](https://i.postimg.cc/sXbm4YRt/ezgif-2-057a36eed0.gif)](https://postimg.cc/TLqnRW19)
 
 This template project provides a way for timing and cycling through phones on your table games on a LAN.
 Adapt it on for your own projects.
@@ -39,7 +41,7 @@ node main.js
 ```
 you should get this prompt depending on your selected port:
 
-image
+[![Screenshot-from-2022-05-24-16-23-59.png](https://i.postimg.cc/jSyWkzYz/Screenshot-from-2022-05-24-16-23-59.png)](https://postimg.cc/xXTTXNCC)
 
 3. To add the playing devices (phones, computers or anything that has access to an internet browser and your local network), access the server's ip through your browser's the search bar, for example `http://10.1.211.85:8080/`.
 
@@ -48,17 +50,6 @@ image
 5. Now, you're ready to start the cycle! make sure to press NEXT when you're done with your turn, so other players don't get bored waiting for the clock to finish. 
 
 
-image
-
-
-
-And there we go! If you want to see some examples and cases, please refer to the following [python notebook](https://ego2509.github.io/trio/).
-
-
 ## License
 
 MIT
-
-## Powered by
-
-[![idp-v-jeffrey-logo.png](https://i.postimg.cc/jjLCF0dR/idp-v-jeffrey-logo.png)](https://postimg.cc/TyvRKsDs)
