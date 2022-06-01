@@ -31,9 +31,9 @@ window.onload=()=>{
     // socket handler
     server_ip_lan="10.1.211.85" // <- paste here your server's ip
     socket=io.connect(server_ip_lan+":8080",{reconnection: false})
-    //internal vars
-    id=1
 ```
+
+
 
 2. Once you're done, start the server
 ```sh
